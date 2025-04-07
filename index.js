@@ -51,10 +51,10 @@ if(userInput >= cotaMinima && userInput <= cotaMaxima){
     //Ambas son verdaderas estan dentro del rango
     alert("El numero ingresado esta dentro del rango");
 }
-else(
+else{
     // No esta en el rango 
     alert("El numero ingresado no esta dentro del rango");
-)
+}
 // lo unico no se distingue cual fue condicion no era verdadero 
 
 
